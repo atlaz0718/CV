@@ -1,0 +1,37 @@
+  body {
+    background-color: #bbeaa6;
+  }
+
+  img {
+    border-style: solid;
+    border-color: black;
+    height: 200px;
+    border-radius: 30px;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #3c4245;
+    border-width: 8px;
+    width: 15%;
+  }
+
+  h1 {
+    color: #66bfbf;
+    text-shadow: 15px;
+    text-decoration: underline;
+    word-spacing: 5px;
+  }
+
+  h3 {
+    color: #66bfbf;
+  }
+
+  .hobbies {
+    color: red;
+  }
+
+  #games {
+    color: blue;
+  }
