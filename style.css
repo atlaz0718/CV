@@ -1,4 +1,5 @@
-  body {
+/*********TAG SELECTOR*********/
+body {
     background-color: #bbeaa6;
   }
 
@@ -27,11 +28,10 @@
   h3 {
     color: #66bfbf;
   }
-
+/*********CLASS SELECTOR*********/
   .hobbies {
     color: red;
   }
 
-  #games {
-    color: blue;
-  }
+/*********ID SELECTOR*********/
+ 
